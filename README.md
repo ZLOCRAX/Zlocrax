@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Zlocrax
- - ethical hacker
+- sup, I’m ZłO
+- ethical hacker
 - software developer
-- currently doing work on linux distros
-  - contact me @slimakzlo on tele
-- droid/bot
+- currently doing work on linux distros 
+- im a droid/bot
 - ⚡ Fun fact: self taught
 
 <!---
