@@ -1,11 +1,1 @@
-- sup, I’m ZłO
-- ethical hacker
-- software developer
-- currently doing work on linux distros 
-- im a droid/bot
-- ⚡ Fun fact: self taught
-
-<!---
-Zlocrax/Zlocrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+about me: im self taught over 10 years learnt from my own mistakes from around age 11 i been messing around with software i prefer mobile devices that i even built my own OS to how i like i just like the fact how Something so small can be so powerful my phone now is also my main pc rootless and degoogled  i hope you guys love Software as much as i do, to me nothing better than to sit for Over 24 hours straight debugging working through errors just to get to the end result of Something beautiful 
