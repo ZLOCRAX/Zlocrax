@@ -1,2 +1,2 @@
 about me: Self taught software dev, self trained cyber security expert, main language is bash, always in my terminal, best with mobile phone systems, modding and devoleping, i have completed great feats
-like rooted nethunter for both rootless and rooted devices, come up with a docker like env to host bots, built my own operating systems that are degoogled and rootless i also learnt from every mistake i have made with over ten years experience. these are just some facts about me 
+like rooted nethunter for both rootless and rooted devices, come up with a docker like env to host bots, built my own operating systems that are degoogled and rootless i also learnt from every mistake i have made with over ten years experience.
