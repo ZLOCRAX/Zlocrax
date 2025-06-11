@@ -1,2 +1,2 @@
-about me: Self taught software dev, self trained cyber security expert, main language is bash, always in my terminal, best with mobile phone systems, modding and devoleping, i have completed great feats
-like rooted nethunter for both rootless and rooted devices, come up with a docker like env to host bots, built my own operating systems that are degoogled and rootless i also learnt from every mistake i have made with over ten years experience.
+About our founder zlo: Self taught software dev, self trained cyber security expert, main language is bash, always in his terminal, best with mobile phone systems, modding and devoleping. About some Dres projects: We at DresOS have completed great feats
+like rooted nethunter for both rootless devices reviving the once dead distro, come up with a rooted docker like env to host bots on rootless devices and building operating systems that are degoogled and rootless, DresOS V2 out soon.
